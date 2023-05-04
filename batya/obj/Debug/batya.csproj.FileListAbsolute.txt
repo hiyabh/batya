@@ -1,0 +1,2 @@
+C:\Users\Admin\source\repos\batya\batya\obj\Debug\batya.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\batya\batya\obj\Debug\batya.csproj.CoreCompileInputs.cache
